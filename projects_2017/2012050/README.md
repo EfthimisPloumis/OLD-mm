@@ -63,6 +63,8 @@ Eπιλογή Εργαλείων
 
 Screenshots κώδικα και εκτελέσιμου
 ---------------------------------
- 
+ ![code sample](https://user-images.githubusercontent.com/5999342/30078721-dc5e9a1e-9286-11e7-8579-96a4a5d61f22.JPG)
+ ![oil price years](https://user-images.githubusercontent.com/5999342/30078743-e905f456-9286-11e7-8c76-3aac59dc814c.JPG)
+
  
 
