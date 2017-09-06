@@ -9,6 +9,7 @@
 * Project : Sentiment Analysis on Twitter
 * [Link Προσωπικού Αποθετηρίου](https://github.com/AnastasiaLefa/twitter-stream-globe)
 * [Link Εφαρμογής](https://twitter-globe-stream.herokuapp.com/)
+* [Github Page](https://anastasialefa.github.io/Sentiment_Analysis_on_Twitter/)
 * Εργαλεία : Heroku, PubNub, Twitter, GitHub
 
 # Παραδοτέα 1 & 2
